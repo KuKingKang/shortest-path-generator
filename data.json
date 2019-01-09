@@ -1,0 +1,71 @@
+{
+    "tempat":
+              [
+                {
+                    "nama": "Cicaheum",
+					"x": 70,
+					"y": 170,
+					"links": [
+						4
+					]
+                },
+                {
+                    "nama": "Samsat",
+					"x": 290,
+					"y": 60,
+					"links": [
+						4,
+						2
+					]
+				},
+				{
+                    "nama": "Bubat",
+					"x": 410,
+					"y": 65,
+					"links": [
+						3,
+						4
+					]
+				},
+				{
+                    "nama": "Lw Panjang",
+					"x": 700,
+					"y": 70,
+					"links": [
+						
+					]
+				},
+				{
+                    "nama": "Cicadas",
+					"x": 240,
+					"y": 180,
+					"links": [
+						6,
+						5
+					]
+				},
+				{
+                    "nama": "Cikutra",
+					"x": 210,
+					"y": 340,
+					"links":[
+					]
+				},
+				{
+                    "nama": "Kosambi",
+					"x": 510,
+					"y": 250,
+					"links": [
+						7
+					]
+				},
+				{
+                    "nama": "Alun-alun",
+					"x": 680,
+					"y": 275,
+					"links": [
+						
+					]
+                }
+              ]
+}
